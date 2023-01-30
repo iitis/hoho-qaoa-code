@@ -1,3 +1,9 @@
+
+
+[![DOI](https://zenodo.org/badge/595116399.svg)](https://zenodo.org/badge/latestdoi/595116399)
+
+
+
 # Code for _Hamiltonian-Oriented Homotopy QAOA_
 
 This is a repository for the code used to calculate the numerical results presented in the article "*Hamiltonian-Oriented Homotopy QAOA*" .
