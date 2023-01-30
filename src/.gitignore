@@ -1,0 +1,13 @@
+hamilton
+permutations_cutters
+*.vscode
+sparse_1qubitgate_data
+*.ipynb_checkpoints
+plots
+*.npz
+*.jld2
+*.p
+*__pycache__
+*.save
+*pdf
+compare_data/
