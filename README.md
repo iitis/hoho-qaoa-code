@@ -1,6 +1,6 @@
-# Code for _HOHo-QAOA: Hamiltonian-Oriented Homotopy QAOA_
+# Code for _Hamiltonian-Oriented Homotopy QAOA_
 
-This is a repository for the code used to calculate the numerical results presented in the article "*HOHo-QAOA: Hamiltonian-Oriented Homotopy QAOA*" .
+This is a repository for the code used to calculate the numerical results presented in the article "*Hamiltonian-Oriented Homotopy QAOA*" .
 
 ## Software installation
 
